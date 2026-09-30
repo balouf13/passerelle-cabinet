@@ -5,9 +5,11 @@
 **Données consultées.** Avec l'accord donné sur l'écran de consentement de Google, l'outil lit et
 organise les e-mails (Gmail) et lit ou range les fichiers (Google Drive) des comptes de son auteur.
 
-**Où elles vont.** Les données restent sur l'ordinateur de l'auteur. Elles ne sont ni vendues, ni
-partagées, ni transmises à un tiers, ni conservées sur un serveur de l'outil — il n'en a pas.
-Les jetons d'accès sont stockés sur cet ordinateur uniquement.
+**Où elles vont.** Les données sont lues depuis l'ordinateur de l'auteur et traitées par
+l'assistant d'intelligence artificielle qu'il utilise (Claude, d'Anthropic), pour son seul usage.
+Elles ne sont ni vendues, ni partagées à d'autres fins, ni utilisées pour entraîner un modèle
+d'intelligence artificielle généraliste. L'outil n'a aucun serveur : les jetons d'accès sont
+stockés sur l'ordinateur de l'auteur uniquement.
 
 **Usage limité.** L'utilisation des données reçues des API Google respecte la politique
 « Google API Services User Data Policy », y compris ses exigences d'usage limité (Limited Use).
